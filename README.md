@@ -2,13 +2,13 @@
 
 When my mom doesn't make breakfast I usualy maake Quesadillas with Chipotle
 
+![Quesadilla](./Quesadilla_2.jpg)
 
-
-- **Prep:** 
-- **Cook:**
-- **Total:** 
-- **Servings:** 
-- **Total Cost:** 
+- **Prep:** 2 Minutes
+- **Cook:** 6 Minutes
+- **Total:** 8 Minutes
+- **Servings:** 1 Serving
+- **Total Cost:** $65.9
 
 # Ingredients
 
@@ -26,3 +26,11 @@ When my mom doesn't make breakfast I usualy maake Quesadillas with Chipotle
 5. Flip each side of the tortilla every minute for at least once or twice.
 6. Once cheese is melted place chipotle sauce inside the tortilla.
 7. Repeat process for as many quesadillas you want. 
+
+# Notes 
+
+It may be expensive to buy all of the ingridients, but the ingridients will be able to make more than 20 quesadillas.
+
+# Inspired By
+
+My moms cooking.
